@@ -1,5 +1,3 @@
 pattern attribut
 *.ipynb linguist-language=Python
-git add .gitattributes
-git commit -m "Add .gitattributes file"
-git push origin master
+
